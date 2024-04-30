@@ -1,5 +1,5 @@
 # Subtitle Modificator
-Subtitle modificator est un programme Frencais permettant de convertir des fichier mkv en mp4 et inversement. Ajout de sous-titres et synchronisation manuelle de sous-titres. 
+Subtitle modificator est un programme Frencais permettant de convertir des fichier mkv en mp4 et inversement. Ajout de sous-titres et synchronisation manuelle de sous-titres. Le language C fait de ce programme le plus rapide dans les fnoctionnalitées qu'il propose.
 
 <img width="467" alt="image" src="https://github.com/jeremleboug/subtitles-modificator/assets/106926412/e1d43e76-a6f4-4539-9fcf-3e38f952c5f0">
 
