@@ -6,6 +6,6 @@ Subtitle modificator est un programme Frencais permettant de convertir des fichi
 
 ## Installation
 
-Le programme est directement sous forme de .exe
+Le programme est directement sous forme de .exe. Téléchargez de préférence la dernière version du programme : V2.1
 
 ⚠️FFMPEG doit etre déja installé sur la machine avec les variables environnements définies pour que le programme puisse utilisé cette bibliotheque. Vous pouvez deja automatiquement installer FFMPEG avec le programme mais vous devrez aussi changé les variables environnement⚠️
